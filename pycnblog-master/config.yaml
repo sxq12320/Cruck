@@ -1,0 +1,21 @@
+blog_url: https://rpc.cnblogs.com/metaweblog/AxonoSensei
+blog_id: AxonoSensei
+username: AxonoSensei
+password: B1AA2EE58DA39DFA541BB1F51D506A33AB529E60EADF7D7FCF1989B02739EAC2
+
+# 是否生成图片替换后本地文件,默认False关闭
+gen_network_file: True
+
+# 上传后是否发布，默认未发布，设置True为发布
+publish: False
+
+# 图片自定义显示格式，默认不设置
+# img_format: "<center><img src="{}" style="width:100%;" /></center>" 设置居中和宽度
+# img_format: typora 还原typora图片样式，居中，设置zoom，上传后无需再手动调整图片大小
+img_format: ""
+
+#要添加到的分类 多个分类用英文逗号分开 不用分类则不填即可 例如
+#categories: c++
+#categories: c++,learn
+#categories:
+categories:

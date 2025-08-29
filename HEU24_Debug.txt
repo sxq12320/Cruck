@@ -1,0 +1,3192 @@
+
+>>[2025-07-25 10:26:15] HEU KMS Activator 24.3.0 激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=0 KMS自动续期=1 生成日志=1 
+【CLICK Smart_Btn......】
+ Act Option = 1 OS Arch = X64 Build Number = 26100 EditionId = CoreCountrySpecific
+
+>>[2025-07-25 10:26:19] _CheckWindowsLicensestatus Name = Windows(R), CoreCountrySpecific edition,  GracePeriodRemaining = 0
+>>[2025-07-25 10:26:19] _CheckWindowsLicensestatus LS = 1
+>>[2025-07-25 10:26:19] 
+没有与指定标准相匹配的规则。
+
+
+>>[2025-07-25 10:26:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2025-07-25 10:26:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2025-07-25 10:26:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2025-07-25 10:26:19] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-07-25 10:26:19] 
+没有与指定标准相匹配的规则。
+
+
+>>[2025-07-25 10:26:20] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:26:21] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:26:23] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:26:24] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:26:24] Check Renewal = 0
+>>[2025-07-25 10:26:24] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2025-07-25 10:26:24] Del NoGenTicket = 1
+>>[2025-07-25 10:26:24] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-07-25 10:26:24] _DelSECOPatcher Del SECOPatcher.dll = 0
+>>[2025-07-25 10:26:25] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:25] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:25] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:25] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:25] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:26] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:26] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:26] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:26] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:26] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:26] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:26] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:27] _CleanKmsReg 1,1,0,0,0,1,0,0,1,1
+>>[2025-07-25 10:26:27] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:27] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:27] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:27] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:27] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:26:27] _CleanKmsReg 1,1,0,0,0,1,0,0,1,1
+>>[2025-07-25 10:26:27] Del = 0  C:\Windows\System32\HEUKMSRenewal.tmp
+>>[2025-07-25 10:26:27] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:26:28] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:26:28] _C2R_R2V  Begining...
+>>[2025-07-25 10:26:29] _C2R_R2V  Office16 C2R = 1,Information: 
+VisioPro2019Retail,HomeStudent2019Retail
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\ProductReleaseIDs\F5CB803D-B806-441F-A7BD-4A2006E0B94D
+C:\Program Files\Microsoft Office\root\Licenses16
+C:\Program Files\Microsoft Office\root\integration\integrator.exe
+>>[2025-07-25 10:26:29] _C2R_R2V  Office15 C2R = 0,Checking MSI...
+>>[2025-07-25 10:26:29] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2025-07-25 10:26:29] _C2R_R2V Office 2013-2021 KMSCLIENT LicenseFamily: 1
+Office19VisioPro2019VL_KMS_Client_AE
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office19ProPlus2019VL_KMS_Client_AE
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office16ProPlusVL_KMS_Client
+Office16OneNoteVL_KMS_Client
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-07-25 10:26:29] _C2R_R2V Office 2013-2021 TIMEBASED LicenseFamily: 1
+Office16O365HomePremR_Subscription5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office16O365HomePremR_Subscription2
+Office16O365HomePremR_Subscription1
+Office21VisioPro2021R_Trial
+Office21ProjectPro2021R_Trial
+Office16O365HomePremR_SubTest2
+Office19ProPlus2019R_Trial2
+Office16O365HomePremR_SubTrial3
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office16O365HomePremR_Subscription3
+Office19VisioPro2019R_Trial
+Office19ProPlus2019R_Trial
+Office16O365HomePremR_SubTrial2
+
+>>[2025-07-25 10:26:30] _C2R_R2V Office 2013-2021 Trial LicenseFamily: 1
+
+>>[2025-07-25 10:26:30] _C2R_R2V Office 2013-2021 Grace LicenseFamily: 1
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Grace
+Office19VisioPro2019R_Grace
+Office19HomeStudent2019R_Grace
+
+>>[2025-07-25 10:26:30] _C2R_R2V Office16MondoVL_KMS_Client: 0
+Office19VisioPro2019MSDNR_Retail
+Office21ProjectPro2021R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp4
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_OEM_Perp2
+Office21ProjectPro2021VL_MAK_AE1
+Office21VisioPro2021R_OEM_Perp
+Office21ProjectPro2021VL_MAK_AE2
+Office16OneNoteVL_MAK
+Office16O365HomePremR_Subscription5
+Office19VisioPro2019R_PrepidBypass
+Office21ProjectPro2021R_Retail
+Office21VisioPro2021DemoR_BypassTrial180
+Office21VisioPro2021PreviewVL_MAK_AE
+Office16OneNoteFreeR_Bypass
+Office19ProPlus2019R_OEM_Perp
+Office19HomeStudent2019R_Retail
+Office19HomeStudent2019R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office19VisioPro2019R_OEM_Perp
+Office16O365HomePremR_Subscription2
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Subscription1
+Office19VisioPro2019VL_KMS_Client_AE
+Office19ProPlus2019MSDNR_Retail
+Office19ProPlus2019VL_MAK_AE
+Office21VisioPro2021R_Trial
+Office19ProPlus2019R_OEM_Perp3
+Office21ProjectPro2021R_Trial
+Office19HomeStudent2019DemoR_BypassTrial180
+Office21ProjectPro2021DemoR_BypassTrial180
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office16O365HomePremR_SubTest2
+Office16O365HomePremDemoR_BypassTrial365
+Office21VisioPro2021R_Retail
+Office19ProPlus2019R_Trial2
+Office19ProPlus2019VL_KMS_Client_AE
+Office16O365HomePremR_SubTrial3
+Office21ProjectPro2021PreviewVL_MAK_AE
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office21ProjectPro2021MSDNR_Retail2
+Office19ProPlus2019R_Retail
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office19VisioPro2019R_Retail
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office19ProPlus2019R_PrepidBypass
+Office16ProPlusVL_MAK
+Office21VisioPro2021VL_MAK_AE
+Office19VisioPro2019DemoR_BypassTrial180
+Office16O365HomePremR_Subscription3
+Office21VisioPro2021MSDNR_Retail
+Office19ProPlus2019DemoR_BypassTrial180
+Office21ProjectPro2021MSDNR_Retail1
+Office19ProPlus2019R_OEM_Perp6
+Office16ProPlusVL_KMS_Client
+Office19VisioPro2019R_Trial
+Office16O365HomePremR_Grace
+Office16OneNoteVL_KMS_Client
+Office19VisioPro2019R_Grace
+Office19ProPlus2019R_Trial
+Office19VisioPro2019VL_MAK_AE
+Office19HomeStudent2019R_Grace
+Office16O365HomePremR_SubTrial2
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-07-25 10:26:32] _C2R_R2V LicenseStatus=1 Description: 
+Office 19, RETAIL channel
+Office 19, VOLUME_KMSCLIENT channel
+Office 21, VOLUME_KMSCLIENT channel
+Office 19, VOLUME_KMSCLIENT channel
+Office 21, RETAIL channel
+Office 16, VOLUME_KMSCLIENT channel
+Office 16, VOLUME_KMSCLIENT channel
+Office 21, VOLUME_KMSCLIENT channel
+
+>>[2025-07-25 10:26:32] _C2R_R2V Office 2013-2021 LicenseStatus=1 LicenseFamily: 
+Office19HomeStudent2019R_OEM_Perp
+Office19VisioPro2019VL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office19ProPlus2019VL_KMS_Client_AE
+Office21VisioPro2021MSDNR_Retail
+Office16ProPlusVL_KMS_Client
+Office16OneNoteVL_KMS_Client
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-07-25 10:26:32] _C2R_R2V Office 2013-2021 LicenseFamily: 
+Office19VisioPro2019MSDNR_Retail
+Office21ProjectPro2021R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp4
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_OEM_Perp2
+Office21ProjectPro2021VL_MAK_AE1
+Office21VisioPro2021R_OEM_Perp
+Office21ProjectPro2021VL_MAK_AE2
+Office16OneNoteVL_MAK
+Office16O365HomePremR_Subscription5
+Office19VisioPro2019R_PrepidBypass
+Office21ProjectPro2021R_Retail
+Office21VisioPro2021DemoR_BypassTrial180
+Office21VisioPro2021PreviewVL_MAK_AE
+Office16OneNoteFreeR_Bypass
+Office19ProPlus2019R_OEM_Perp
+Office19HomeStudent2019R_Retail
+Office19HomeStudent2019R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office19VisioPro2019R_OEM_Perp
+Office16O365HomePremR_Subscription2
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Subscription1
+Office19VisioPro2019VL_KMS_Client_AE
+Office19ProPlus2019MSDNR_Retail
+Office19ProPlus2019VL_MAK_AE
+Office21VisioPro2021R_Trial
+Office19ProPlus2019R_OEM_Perp3
+Office21ProjectPro2021R_Trial
+Office19HomeStudent2019DemoR_BypassTrial180
+Office21ProjectPro2021DemoR_BypassTrial180
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office16O365HomePremR_SubTest2
+Office16O365HomePremDemoR_BypassTrial365
+Office21VisioPro2021R_Retail
+Office19ProPlus2019R_Trial2
+Office19ProPlus2019VL_KMS_Client_AE
+Office16O365HomePremR_SubTrial3
+Office21ProjectPro2021PreviewVL_MAK_AE
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office21ProjectPro2021MSDNR_Retail2
+Office19ProPlus2019R_Retail
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office19VisioPro2019R_Retail
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office19ProPlus2019R_PrepidBypass
+Office16ProPlusVL_MAK
+Office21VisioPro2021VL_MAK_AE
+Office19VisioPro2019DemoR_BypassTrial180
+Office16O365HomePremR_Subscription3
+Office21VisioPro2021MSDNR_Retail
+Office19ProPlus2019DemoR_BypassTrial180
+Office21ProjectPro2021MSDNR_Retail1
+Office19ProPlus2019R_OEM_Perp6
+Office16ProPlusVL_KMS_Client
+Office19VisioPro2019R_Trial
+Office16O365HomePremR_Grace
+Office16OneNoteVL_KMS_Client
+Office19VisioPro2019R_Grace
+Office19ProPlus2019R_Trial
+Office19VisioPro2019VL_MAK_AE
+Office19HomeStudent2019R_Grace
+Office16O365HomePremR_SubTrial2
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-07-25 10:26:32] _C2R_R2V Office16 Flag bef = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 1
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 1
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 
+
+ProPlus2021 = 0
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: ProPlus2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: ProjectPro2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: Standard2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: ProjectStd2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: VisioStd2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: Access2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: SkypeforBusiness2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: Excel2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: Outlook2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: PowerPoint2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: Publisher2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: Word2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: Professional2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: HomeBusiness2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2019 Permernantly Activated: HomeStudent2019
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: ProPlus2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: ProjectPro2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: VisioPro2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: Standard2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: ProjectStd2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: VisioStd2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: Access2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: SkypeforBusiness2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: Excel2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: Outlook2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: PowerPoint2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: Publisher2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: Word2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: Professional2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: HomeBusiness2021
+>>[2025-07-25 10:26:32] _MSI_R2V Office 2021 Permernantly Activated: HomeStudent2021
+>>[2025-07-25 10:26:32] _C2R_R2V Office16 Flag aft = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 1
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 0
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 
+
+ProPlus2021 = 0
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+
+>>[2025-07-25 10:26:37] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:26:37] Office2016 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-07-25 10:26:37] Office2016 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-07-25 10:26:37] _InstOffGVLK Office2016VisioPro2019 Key = 
+>>[2025-07-25 10:26:37] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:26:37] Office2019 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-07-25 10:26:37] Office2019 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-07-25 10:26:37] _InstOffGVLK Office2019VisioPro2019 Key = 9BGNQ-K37YR-RQHF2-38RQ3-7VCBB
+>>[2025-07-25 10:26:40] ---Processing--------------------------
+---------------------------------------
+<Product key installation successful>
+---------------------------------------
+---Exiting-----------------------------
+
+>>[2025-07-25 10:26:40] Office2021 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:26:40] Office2021 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-07-25 10:26:40] Office2021 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-07-25 10:26:40] _InstOffGVLK Office2021VisioPro2019 Key = 
+>>[2025-07-25 10:26:40] _MSI_R2V  Begining...
+>>[2025-07-25 10:26:40] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-07-25 10:26:40] _MSI_R2V Office 2010 = Null
+>>[2025-07-25 10:26:40] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2025-07-25 10:26:40] Office2016 _OfficeExistCheck  MSI = 0
+
+>>[2025-07-25 10:26:40]  _OfficeUWPExist OfficeExist = 
+
+>>[2025-07-25 10:26:40] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:26:40] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:26:40] _MSI_R2V Office 2013 = Nul
+>>[2025-07-25 10:26:40] _MSI_R2V Office 2016 = Nul
+>>[2025-07-25 10:26:40] _MSI_R2V Office 2019 = Nul 
+>>[2025-07-25 10:26:40] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-07-25 10:26:41] Software Protection 服务正在停止.
+Software Protection 服务无法停止。
+
+
+>>[2025-07-25 10:26:43] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-07-25 10:26:44] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 3  STOP_PENDING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x1
+        WAIT_HINT          : 0x4e20
+
+>>[2025-07-25 10:26:44] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:26:44] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:26:45] _StartKMSServer KMSMode = 1
+>>[2025-07-25 10:26:45] Add NoGenTicket = 1
+>>[2025-07-25 10:26:45] Copy SECOPatcher = 0    C:\Windows\system32
+>>[2025-07-25 10:26:45] 未找到任何具有匹配 SID 的文件。
+已成功处理 0 个文件; 处理 1 个文件时失败
+已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-07-25 10:26:45] Add Debugger = 1
+>>[2025-07-25 10:26:45] Starting KMS Server...
+>>[2025-07-25 10:26:47] Listening on [::]:1688
+Listening on 0.0.0.0:1688
+vlmcsd 1113, built 2020-03-28 17:29:45 UTC started successfully
+
+>>[2025-07-25 10:26:47] SECOPatcher.dll = 0
+>>[2025-07-25 10:26:47] Office2021 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:26:47] Office2021 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-07-25 10:26:47] Office2021 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-07-25 10:26:49] _Check_Office_Info Office2021 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-07-25 10:26:54] _CheckOfficeVOL_Licensestatus Office2021 :
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+
+
+>>[2025-07-25 10:26:57] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:26:59] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:26:59] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-07-25 10:26:59] 
+>>[2025-07-25 10:26:59] 
+>>[2025-07-25 10:26:59] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:26:59] Office2019 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-07-25 10:26:59] Office2019 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-07-25 10:26:59] _Check_Office_Info Office2019 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-07-25 10:27:01] _CheckOfficeVOL_Licensestatus Office2019 :
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+
+
+>>[2025-07-25 10:27:04] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:27:08] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:27:08] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-07-25 10:27:08] 
+>>[2025-07-25 10:27:08] 
+>>[2025-07-25 10:27:08] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:27:08] Office2016 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-07-25 10:27:08] Office2016 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-07-25 10:27:09] _Check_Office_Info Office2016 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-07-25 10:27:10] _CheckOfficeVOL_Licensestatus Office2016 :
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+
+
+>>[2025-07-25 10:27:12] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:27:14] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:27:14] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-07-25 10:27:14] 
+>>[2025-07-25 10:27:14] 
+>>[2025-07-25 10:27:14] Office2013 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-07-25 10:27:14] Office2013 Install path： 
+>>[2025-07-25 10:27:14] Office2013 License path： 
+>>[2025-07-25 10:27:14] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-07-25 10:27:14] Office2010 Install path： 
+>>[2025-07-25 10:27:14] Office2010 License path： 
+>>[2025-07-25 10:27:14]  _OfficeUWPExist OfficeExist = 
+
+>>[2025-07-25 10:27:14] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-07-25 10:27:15] Software Protection 服务正在停止.
+Software Protection 服务已成功停止。
+
+
+>>[2025-07-25 10:27:17] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-07-25 10:27:18] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:27:18] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:27:19] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:27:19] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:27:20] Check Renewal = 0
+>>[2025-07-25 10:27:20] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:27:20] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:27:21] Check Renewal = 0
+>>[2025-07-25 10:27:21] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 1
+>>[2025-07-25 10:27:21] Del NoGenTicket = 1
+>>[2025-07-25 10:27:21] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-07-25 10:27:21] _DelSECOPatcher Del SECOPatcher.dll = 0
+>>[2025-07-25 10:27:44] _CheckWindowsLicensestatus Name = Windows(R), CoreCountrySpecific edition,  GracePeriodRemaining = 0
+>>[2025-07-25 10:27:44] _CheckWindowsLicensestatus LS = 1
+>>[2025-07-25 10:27:44] _CheckWindowsInfo_Digital Windows SKUID = 99
+>>[2025-07-25 10:27:44] DLA_CheckWindowsInfo_Digital Key = N2434-X9D7W-8PF6X-8DV9T-8TYMD
+>>[2025-07-25 10:27:44] _CheckWindowsInfo_Digital Windows SKUID = 99
+>>[2025-07-25 10:27:44] KMS38_CheckWindowsInfo_Digital Key = PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+>>[2025-07-25 10:27:50] _CheckSlic : OEMID
+SLIC TABLE
+----------
+
+Software Licensing Description Table:
+
+53 4C 49 43 76 01 00 00 01 3F 4C 45 4E 4F 56 4F SLICv.....LENOVO
+43 42 2D 30 31 20 20 20 01 00 00 00 41 43 50 49 CB-01   ....ACPI
+00 00 04 00 00 00 00 00 3F 00 00 00 06 02 00 00 ................
+00 24 00 00 52 53 41 31 00 04 00 00 01 00 01 00 .$..RSA1........
+69 16 4A 3F A1 C0 4B 3A 3F 80 20 61 A1 A5 3F A8 B4 3E A8 A2 i.J..K:.. ....>.
+80 49 3F 6A 65 26 72 1E A8 AA 3F 5F 2F A8 43 3F A8 A4 0A .I.je&r..._/....
+A1 AF 3F 06 A6 CC 00 32 3B 29 02 61 4C 3F 3F A8 B0 3F 41 ......;)..L....A
+77 3F 70 65 A8 AE 1B 09 A8 B0 63 5A A8 B9 A1 A7 3F 3F 5E A8 A6 w.p.....cZ....^.
+15 3F A8 B4 A8 B2 79 A8 B9 05 A1 A4 4D 67 7F 2D 33 3F 33 20 ........Mg.-..3 
+A8 A2 3F 79 2A A1 EC 6A 77 3F 3F 20 2A 76 42 3F 3F A8 A6 ..y*.jw.. *vB...
+3F 43 40 55 44 3F A8 A6 37 3F 5F 41 A1 AA 70 A8 AE 3F 3F .C@UD..7._A.p...
+07 A8 AC 7B 1A 29 3F A8 A2 3F A1 AE 79 48 3F 6E 3E 3F 3F ..{.).....H.n>..
+01 00 00 00 3F 00 00 00 00 20 00 00 49 4E 53 59 ......... ..INSY
+44 45 49 4E 53 59 44 45 30 30 57 49 4E 44 4F 57 DEINSYDE00WINDOW
+53 20 01 00 02 00 00 00 00 00 00 00 00 00 00 00 S ..............
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+00 00 00 00 00 00 A8 B4 54 A1 B0 7A 68 04 4A 44 3F 3F .......T.zh.JD..
+0B 3F 17 3F 3F 3F 00 00 01 00 00 00 00 00 5F 46 .............._F
+56 48 3F 3F 3F 3F 48 00 A1 C0 4C 00 00 00 01 01 00 VH....H..L......
+00 00 00 00 01 00 00 00 00 00 00 00 00 00 54 65 ..............T.
+0C 6F 6A 3F 3F 41 A1 EC 3F 3C 7A 7C A1 C1 4E A8 A4 4E 3F .oj..A..<z|.N.N.
+02 40 13 2D 00 3F 3F 2C 00 01 3F 7D 00 00 01 A8 BA .@.-...,...}....
+2C 00 00 3F 7D 00 00 1C 28 3F 6E 3F A1 E4 69 39 3F ,...}...(.n..i9?
+54 3F A8 AC A8 AC 64 3F                              	....d.
+
+Signature           : "SLIC"
+Length              : 0x176 (374)
+Revision            : 0x1 (1)
+Checksum            : 0x9B (155)
+SLIC OA             : 2.1
+OEM ID              : "LENOVO"
+OEM Table ID        : "CB-01   "
+OEM Revision        : 0x1 (1)
+Creator ID          : "ACPI"
+Creator Revision    : 0x40000 (262144)
+OEM Public Key Structure
+Length              : 0x9C (156)
+Reserved            : 0x0 (0)
+Algorithm           : 0x2400 (9216)
+>>[2025-07-25 10:27:50] _CheckSlic : SLICOA
+SLIC TABLE
+----------
+
+Software Licensing Description Table:
+
+53 4C 49 43 76 01 00 00 01 3F 4C 45 4E 4F 56 4F SLICv.....LENOVO
+43 42 2D 30 31 20 20 20 01 00 00 00 41 43 50 49 CB-01   ....ACPI
+00 00 04 00 00 00 00 00 3F 00 00 00 06 02 00 00 ................
+00 24 00 00 52 53 41 31 00 04 00 00 01 00 01 00 .$..RSA1........
+69 16 4A 3F A1 C0 4B 3A 3F 80 20 61 A1 A5 3F A8 B4 3E A8 A2 i.J..K:.. ....>.
+80 49 3F 6A 65 26 72 1E A8 AA 3F 5F 2F A8 43 3F A8 A4 0A .I.je&r..._/....
+A1 AF 3F 06 A6 CC 00 32 3B 29 02 61 4C 3F 3F A8 B0 3F 41 ......;)..L....A
+77 3F 70 65 A8 AE 1B 09 A8 B0 63 5A A8 B9 A1 A7 3F 3F 5E A8 A6 w.p.....cZ....^.
+15 3F A8 B4 A8 B2 79 A8 B9 05 A1 A4 4D 67 7F 2D 33 3F 33 20 ........Mg.-..3 
+A8 A2 3F 79 2A A1 EC 6A 77 3F 3F 20 2A 76 42 3F 3F A8 A6 ..y*.jw.. *vB...
+3F 43 40 55 44 3F A8 A6 37 3F 5F 41 A1 AA 70 A8 AE 3F 3F .C@UD..7._A.p...
+07 A8 AC 7B 1A 29 3F A8 A2 3F A1 AE 79 48 3F 6E 3E 3F 3F ..{.).....H.n>..
+01 00 00 00 3F 00 00 00 00 20 00 00 49 4E 53 59 ......... ..INSY
+44 45 49 4E 53 59 44 45 30 30 57 49 4E 44 4F 57 DEINSYDE00WINDOW
+53 20 01 00 02 00 00 00 00 00 00 00 00 00 00 00 S ..............
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+00 00 00 00 00 00 A8 B4 54 A1 B0 7A 68 04 4A 44 3F 3F .......T.zh.JD..
+0B 3F 17 3F 3F 3F 00 00 01 00 00 00 00 00 5F 46 .............._F
+56 48 3F 3F 3F 3F 48 00 A1 C0 4C 00 00 00 01 01 00 VH....H..L......
+00 00 00 00 01 00 00 00 00 00 00 00 00 00 54 65 ..............T.
+0C 6F 6A 3F 3F 41 A1 EC 3F 3C 7A 7C A1 C1 4E A8 A4 4E 3F .oj..A..<z|.N.N.
+02 40 13 2D 00 3F 3F 2C 00 01 3F 7D 00 00 01 A8 BA .@.-...,...}....
+2C 00 00 3F 7D 00 00 1C 28 3F 6E 3F A1 E4 69 39 3F ,...}...(.n..i9?
+54 3F A8 AC A8 AC 64 3F                              	....d.
+
+Signature           : "SLIC"
+Length              : 0x176 (374)
+Revision            : 0x1 (1)
+Checksum            : 0x9B (155)
+SLIC OA             : 2.1
+OEM ID              : "LENOVO"
+OEM Table ID        : "CB-01   "
+OEM Revision        : 0x1 (1)
+Creator ID          : "ACPI"
+Creator Revision    : 0x40000 (262144)
+OEM Public Key Structure
+Length              : 0x9C (156)
+Reserved            : 0x0 (0)
+Algorithm           : 0x2400 (9216)
+>>[2025-07-25 10:27:50] _CheckOEMKey OEMKey = 
+>>[2025-07-25 10:27:59] HEU KMS Activator 24.3.0 激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=0 KMS自动续期=1 生成日志=1 
+【CLICK KMS_ActWin......】
+ Act Option = 1 OS Arch = X64 Build Number = 26100 EditionId = CoreCountrySpecific
+
+>>[2025-07-25 10:28:00] _CheckWindowsLicensestatus Name = Windows(R), CoreCountrySpecific edition,  GracePeriodRemaining = 0
+>>[2025-07-25 10:28:00] _CheckWindowsLicensestatus LS = 1
+>>[2025-07-25 10:28:02] HEU KMS Activator 24.3.0 激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=0 KMS自动续期=1 生成日志=1 
+【CLICK KMS_ActOff......】
+ Act Option = 1 OS Arch = X64 Build Number = 26100 EditionId = CoreCountrySpecific
+
+>>[2025-07-25 10:28:02] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:28:03] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:28:03] _C2R_R2V  Begining...
+>>[2025-07-25 10:28:03] _C2R_R2V  Office16 C2R = 1,Information: 
+VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\ProductReleaseIDs\F5CB803D-B806-441F-A7BD-4A2006E0B94D
+C:\Program Files\Microsoft Office\root\Licenses16
+C:\Program Files\Microsoft Office\root\integration\integrator.exe
+>>[2025-07-25 10:28:03] _C2R_R2V  Office15 C2R = 0,Checking MSI...
+>>[2025-07-25 10:28:03] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2025-07-25 10:28:04] _C2R_R2V Office 2013-2021 KMSCLIENT LicenseFamily: 1
+Office19VisioPro2019VL_KMS_Client_AE
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office19ProPlus2019VL_KMS_Client_AE
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office16ProPlusVL_KMS_Client
+Office16OneNoteVL_KMS_Client
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-07-25 10:28:04] _C2R_R2V Office 2013-2021 TIMEBASED LicenseFamily: 1
+Office16O365HomePremR_Subscription5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office16O365HomePremR_Subscription2
+Office16O365HomePremR_Subscription1
+Office21VisioPro2021R_Trial
+Office21ProjectPro2021R_Trial
+Office16O365HomePremR_SubTest2
+Office19ProPlus2019R_Trial2
+Office16O365HomePremR_SubTrial3
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office16O365HomePremR_Subscription3
+Office19VisioPro2019R_Trial
+Office19ProPlus2019R_Trial
+Office16O365HomePremR_SubTrial2
+
+>>[2025-07-25 10:28:04] _C2R_R2V Office 2013-2021 Trial LicenseFamily: 1
+
+>>[2025-07-25 10:28:05] _C2R_R2V Office 2013-2021 Grace LicenseFamily: 1
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Grace
+Office19VisioPro2019R_Grace
+Office19HomeStudent2019R_Grace
+
+>>[2025-07-25 10:28:05] _C2R_R2V Office16MondoVL_KMS_Client: 0
+Office19VisioPro2019MSDNR_Retail
+Office21ProjectPro2021R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp4
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_OEM_Perp2
+Office21ProjectPro2021VL_MAK_AE1
+Office21VisioPro2021R_OEM_Perp
+Office21ProjectPro2021VL_MAK_AE2
+Office16OneNoteVL_MAK
+Office16O365HomePremR_Subscription5
+Office19VisioPro2019R_PrepidBypass
+Office21ProjectPro2021R_Retail
+Office21VisioPro2021DemoR_BypassTrial180
+Office21VisioPro2021PreviewVL_MAK_AE
+Office16OneNoteFreeR_Bypass
+Office19ProPlus2019R_OEM_Perp
+Office19HomeStudent2019R_Retail
+Office19HomeStudent2019R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office19VisioPro2019R_OEM_Perp
+Office16O365HomePremR_Subscription2
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Subscription1
+Office19VisioPro2019VL_KMS_Client_AE
+Office19ProPlus2019MSDNR_Retail
+Office19ProPlus2019VL_MAK_AE
+Office21VisioPro2021R_Trial
+Office19ProPlus2019R_OEM_Perp3
+Office21ProjectPro2021R_Trial
+Office19HomeStudent2019DemoR_BypassTrial180
+Office21ProjectPro2021DemoR_BypassTrial180
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office16O365HomePremR_SubTest2
+Office16O365HomePremDemoR_BypassTrial365
+Office21VisioPro2021R_Retail
+Office19ProPlus2019R_Trial2
+Office19ProPlus2019VL_KMS_Client_AE
+Office16O365HomePremR_SubTrial3
+Office21ProjectPro2021PreviewVL_MAK_AE
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office21ProjectPro2021MSDNR_Retail2
+Office19ProPlus2019R_Retail
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office19VisioPro2019R_Retail
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office19ProPlus2019R_PrepidBypass
+Office16ProPlusVL_MAK
+Office21VisioPro2021VL_MAK_AE
+Office19VisioPro2019DemoR_BypassTrial180
+Office16O365HomePremR_Subscription3
+Office21VisioPro2021MSDNR_Retail
+Office19ProPlus2019DemoR_BypassTrial180
+Office21ProjectPro2021MSDNR_Retail1
+Office19ProPlus2019R_OEM_Perp6
+Office16ProPlusVL_KMS_Client
+Office19VisioPro2019R_Trial
+Office16O365HomePremR_Grace
+Office16OneNoteVL_KMS_Client
+Office19VisioPro2019R_Grace
+Office19ProPlus2019R_Trial
+Office19VisioPro2019VL_MAK_AE
+Office19HomeStudent2019R_Grace
+Office16O365HomePremR_SubTrial2
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-07-25 10:28:06] _C2R_R2V LicenseStatus=1 Description: 
+Office 19, RETAIL channel
+Office 19, VOLUME_KMSCLIENT channel
+Office 21, VOLUME_KMSCLIENT channel
+Office 19, VOLUME_KMSCLIENT channel
+Office 21, RETAIL channel
+Office 16, VOLUME_KMSCLIENT channel
+Office 16, VOLUME_KMSCLIENT channel
+Office 21, VOLUME_KMSCLIENT channel
+
+>>[2025-07-25 10:28:07] _C2R_R2V Office 2013-2021 LicenseStatus=1 LicenseFamily: 
+Office19HomeStudent2019R_OEM_Perp
+Office19VisioPro2019VL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office19ProPlus2019VL_KMS_Client_AE
+Office21VisioPro2021MSDNR_Retail
+Office16ProPlusVL_KMS_Client
+Office16OneNoteVL_KMS_Client
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-07-25 10:28:07] _C2R_R2V Office 2013-2021 LicenseFamily: 
+Office19VisioPro2019MSDNR_Retail
+Office21ProjectPro2021R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp4
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_OEM_Perp2
+Office21ProjectPro2021VL_MAK_AE1
+Office21VisioPro2021R_OEM_Perp
+Office21ProjectPro2021VL_MAK_AE2
+Office16OneNoteVL_MAK
+Office16O365HomePremR_Subscription5
+Office19VisioPro2019R_PrepidBypass
+Office21ProjectPro2021R_Retail
+Office21VisioPro2021DemoR_BypassTrial180
+Office21VisioPro2021PreviewVL_MAK_AE
+Office16OneNoteFreeR_Bypass
+Office19ProPlus2019R_OEM_Perp
+Office19HomeStudent2019R_Retail
+Office19HomeStudent2019R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office19VisioPro2019R_OEM_Perp
+Office16O365HomePremR_Subscription2
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Subscription1
+Office19VisioPro2019VL_KMS_Client_AE
+Office19ProPlus2019MSDNR_Retail
+Office19ProPlus2019VL_MAK_AE
+Office21VisioPro2021R_Trial
+Office19ProPlus2019R_OEM_Perp3
+Office21ProjectPro2021R_Trial
+Office19HomeStudent2019DemoR_BypassTrial180
+Office21ProjectPro2021DemoR_BypassTrial180
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office16O365HomePremR_SubTest2
+Office16O365HomePremDemoR_BypassTrial365
+Office21VisioPro2021R_Retail
+Office19ProPlus2019R_Trial2
+Office19ProPlus2019VL_KMS_Client_AE
+Office16O365HomePremR_SubTrial3
+Office21ProjectPro2021PreviewVL_MAK_AE
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office21ProjectPro2021MSDNR_Retail2
+Office19ProPlus2019R_Retail
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office19VisioPro2019R_Retail
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office19ProPlus2019R_PrepidBypass
+Office16ProPlusVL_MAK
+Office21VisioPro2021VL_MAK_AE
+Office19VisioPro2019DemoR_BypassTrial180
+Office16O365HomePremR_Subscription3
+Office21VisioPro2021MSDNR_Retail
+Office19ProPlus2019DemoR_BypassTrial180
+Office21ProjectPro2021MSDNR_Retail1
+Office19ProPlus2019R_OEM_Perp6
+Office16ProPlusVL_KMS_Client
+Office19VisioPro2019R_Trial
+Office16O365HomePremR_Grace
+Office16OneNoteVL_KMS_Client
+Office19VisioPro2019R_Grace
+Office19ProPlus2019R_Trial
+Office19VisioPro2019VL_MAK_AE
+Office19HomeStudent2019R_Grace
+Office16O365HomePremR_SubTrial2
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-07-25 10:28:07] _C2R_R2V Office16 Flag bef = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 0
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 1
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 
+
+ProPlus2021 = 0
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: ProPlus2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: ProjectPro2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: VisioPro2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: Standard2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: ProjectStd2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: VisioStd2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: Access2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: SkypeforBusiness2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: Excel2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: Outlook2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: PowerPoint2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: Publisher2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: Word2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: Professional2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: HomeBusiness2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 Permernantly Activated: HomeStudent2019
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: ProPlus2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: ProjectPro2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: VisioPro2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: Standard2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: ProjectStd2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: VisioStd2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: Access2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: SkypeforBusiness2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: Excel2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: Outlook2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: PowerPoint2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: Publisher2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: Word2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: Professional2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: HomeBusiness2021
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2021 Permernantly Activated: HomeStudent2021
+>>[2025-07-25 10:28:07] _C2R_R2V Office16 Flag aft = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 0
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 0
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 
+
+ProPlus2021 = 0
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+
+>>[2025-07-25 10:28:07] _MSI_R2V  Begining...
+>>[2025-07-25 10:28:07] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2010 = Null
+>>[2025-07-25 10:28:07] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2025-07-25 10:28:07] Office2016 _OfficeExistCheck  MSI = 0
+
+>>[2025-07-25 10:28:07]  _OfficeUWPExist OfficeExist = 
+
+>>[2025-07-25 10:28:07] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:28:07] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2013 = Nul
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2016 = Nul
+>>[2025-07-25 10:28:07] _MSI_R2V Office 2019 = Nul 
+>>[2025-07-25 10:28:07] 
+没有与指定标准相匹配的规则。
+
+
+>>[2025-07-25 10:28:07] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2025-07-25 10:28:07] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2025-07-25 10:28:07] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2025-07-25 10:28:07] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-07-25 10:28:07] 
+没有与指定标准相匹配的规则。
+
+
+>>[2025-07-25 10:28:08] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:28:09] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:28:10] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:28:10] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:28:10] Check Renewal = 0
+>>[2025-07-25 10:28:10] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2025-07-25 10:28:10] Del NoGenTicket = 0
+>>[2025-07-25 10:28:10] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-07-25 10:28:10] _DelSECOPatcher Del SECOPatcher.dll = 0
+>>[2025-07-25 10:28:11] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:11] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:11] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:12] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:12] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:12] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:12] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:12] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:12] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:12] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:12] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:12] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:13] _CleanKmsReg 1,1,1,1,0,0,0,0,0,0
+>>[2025-07-25 10:28:13] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:13] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:13] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:13] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:13] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-07-25 10:28:13] _CleanKmsReg 1,1,1,1,0,0,0,0,0,0
+>>[2025-07-25 10:28:13] Del = 0  C:\Windows\System32\HEUKMSRenewal.tmp
+>>[2025-07-25 10:28:14] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-07-25 10:28:14] Software Protection 服务正在停止.
+Software Protection 服务已成功停止。
+
+
+>>[2025-07-25 10:28:17] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-07-25 10:28:17] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:28:17] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:28:18] _StartKMSServer KMSMode = 1
+>>[2025-07-25 10:28:18] Add NoGenTicket = 1
+>>[2025-07-25 10:28:18] Copy SECOPatcher = 0    C:\Windows\system32
+>>[2025-07-25 10:28:18] 未找到任何具有匹配 SID 的文件。
+已成功处理 0 个文件; 处理 1 个文件时失败
+已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-07-25 10:28:18] Add Debugger = 1
+>>[2025-07-25 10:28:18] Starting KMS Server...
+>>[2025-07-25 10:28:20] Listening on [::]:1688
+Listening on 0.0.0.0:1688
+vlmcsd 1113, built 2020-03-28 17:29:45 UTC started successfully
+
+>>[2025-07-25 10:28:20] SECOPatcher.dll = 0
+>>[2025-07-25 10:28:20] Office2021 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:28:20] Office2021 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-07-25 10:28:20] Office2021 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-07-25 10:28:21] _Check_Office_Info Office2021 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-07-25 10:28:21] _CheckOfficeVOL_Licensestatus Office2021 :
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+
+
+>>[2025-07-25 10:28:22] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:28:22] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:28:22] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-07-25 10:28:22] 
+>>[2025-07-25 10:28:22] 
+>>[2025-07-25 10:28:22] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:28:22] Office2019 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-07-25 10:28:22] Office2019 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-07-25 10:28:23] _Check_Office_Info Office2019 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-07-25 10:28:23] _CheckOfficeVOL_Licensestatus Office2019 :
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+
+
+>>[2025-07-25 10:28:24] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:28:24] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:28:24] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-07-25 10:28:24] 
+>>[2025-07-25 10:28:24] 
+>>[2025-07-25 10:28:24] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-07-25 10:28:24] Office2016 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-07-25 10:28:24] Office2016 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-07-25 10:28:24] _Check_Office_Info Office2016 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-07-25 10:28:25] _CheckOfficeVOL_Licensestatus Office2016 :
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+
+
+>>[2025-07-25 10:28:25] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:28:26] Fixbanner = 1,1,1,1,1,1
+>>[2025-07-25 10:28:26] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-07-25 10:28:26] 
+>>[2025-07-25 10:28:26] 
+>>[2025-07-25 10:28:26] Office2013 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-07-25 10:28:26] Office2013 Install path： 
+>>[2025-07-25 10:28:26] Office2013 License path： 
+>>[2025-07-25 10:28:26] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-07-25 10:28:26] Office2010 Install path： 
+>>[2025-07-25 10:28:26] Office2010 License path： 
+>>[2025-07-25 10:28:26]  _OfficeUWPExist OfficeExist = 
+
+>>[2025-07-25 10:28:26] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-07-25 10:28:26] Software Protection 服务正在停止.
+Software Protection 服务已成功停止。
+
+
+>>[2025-07-25 10:28:28] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-07-25 10:28:29] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:28:29] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-07-25 10:28:30] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:28:30] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:28:31] Check Renewal = 0
+>>[2025-07-25 10:28:31] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:28:31] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-07-25 10:28:31] Check Renewal = 0
+>>[2025-07-25 10:28:31] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 1
+>>[2025-07-25 10:28:31] Del NoGenTicket = 1
+>>[2025-07-25 10:28:31] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-07-25 10:28:32] _DelSECOPatcher Del SECOPatcher.dll = 0
+>>[2025-08-21 07:57:13] HEU KMS Activator 24.3.0 激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=0 KMS自动续期=1 生成日志=1 
+【CLICK Smart_Btn......】
+ Act Option = 1 OS Arch = X64 Build Number = 26100 EditionId = CoreCountrySpecific
+
+>>[2025-08-21 07:57:14] _CheckWindowsLicensestatus Name = Windows(R), CoreCountrySpecific edition,  GracePeriodRemaining = 0
+>>[2025-08-21 07:57:14] _CheckWindowsLicensestatus LS = 1
+>>[2025-08-21 07:57:14] 
+没有与指定标准相匹配的规则。
+
+
+>>[2025-08-21 07:57:14] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2025-08-21 07:57:14] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2025-08-21 07:57:14] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2025-08-21 07:57:14] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-08-21 07:57:14] 
+没有与指定标准相匹配的规则。
+
+
+>>[2025-08-21 07:57:15] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:57:16] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:57:18] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:57:18] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:57:19] Check Renewal = 0
+>>[2025-08-21 07:57:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2025-08-21 07:57:19] Del NoGenTicket = 0
+>>[2025-08-21 07:57:19] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-08-21 07:57:19] _DelSECOPatcher Del SECOPatcher.dll = 0
+>>[2025-08-21 07:57:20] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:20] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:20] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:20] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:20] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:20] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:21] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:21] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:21] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:21] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:21] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:21] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:21] _CleanKmsReg 1,1,1,1,0,1,0,0,1,1
+>>[2025-08-21 07:57:22] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:22] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:22] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:22] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:22] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:57:22] _CleanKmsReg 1,1,0,0,0,1,0,0,1,1
+>>[2025-08-21 07:57:22] Del = 0  C:\WINDOWS\System32\HEUKMSRenewal.tmp
+>>[2025-08-21 07:57:22] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:57:23] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:57:23] _C2R_R2V  Begining...
+>>[2025-08-21 07:57:24] _C2R_R2V  Office16 C2R = 1,Information: 
+VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\ProductReleaseIDs\B5716A2A-3ADE-45F7-8A2B-1629E6231AB1
+C:\Program Files\Microsoft Office\root\Licenses16
+C:\Program Files\Microsoft Office\root\integration\integrator.exe
+>>[2025-08-21 07:57:24] _C2R_R2V  Office15 C2R = 0,Checking MSI...
+>>[2025-08-21 07:57:24] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2025-08-21 07:57:24] _C2R_R2V Office 2013-2021 KMSCLIENT LicenseFamily: 1
+Office19VisioPro2019VL_KMS_Client_AE
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office19ProPlus2019VL_KMS_Client_AE
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office16ProPlusVL_KMS_Client
+Office16OneNoteVL_KMS_Client
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-08-21 07:57:24] _C2R_R2V Office 2013-2021 TIMEBASED LicenseFamily: 1
+Office16O365HomePremR_Subscription5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office16O365HomePremR_Subscription2
+Office16O365HomePremR_Subscription1
+Office21VisioPro2021R_Trial
+Office21ProjectPro2021R_Trial
+Office16O365HomePremR_SubTest2
+Office19ProPlus2019R_Trial2
+Office16O365HomePremR_SubTrial3
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office16O365HomePremR_Subscription3
+Office19VisioPro2019R_Trial
+Office19ProPlus2019R_Trial
+Office16O365HomePremR_SubTrial2
+
+>>[2025-08-21 07:57:25] _C2R_R2V Office 2013-2021 Trial LicenseFamily: 1
+
+>>[2025-08-21 07:57:25] _C2R_R2V Office 2013-2021 Grace LicenseFamily: 1
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Grace
+Office19VisioPro2019R_Grace
+Office19HomeStudent2019R_Grace
+
+>>[2025-08-21 07:57:25] _C2R_R2V Office16MondoVL_KMS_Client: 0
+Office19VisioPro2019MSDNR_Retail
+Office21ProjectPro2021R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp4
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_OEM_Perp2
+Office21ProjectPro2021VL_MAK_AE1
+Office21VisioPro2021R_OEM_Perp
+Office21ProjectPro2021VL_MAK_AE2
+Office16OneNoteVL_MAK
+Office16O365HomePremR_Subscription5
+Office19VisioPro2019R_PrepidBypass
+Office21ProjectPro2021R_Retail
+Office21VisioPro2021DemoR_BypassTrial180
+Office21VisioPro2021PreviewVL_MAK_AE
+Office16OneNoteFreeR_Bypass
+Office19ProPlus2019R_OEM_Perp
+Office19HomeStudent2019R_Retail
+Office19HomeStudent2019R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office19VisioPro2019R_OEM_Perp
+Office16O365HomePremR_Subscription2
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Subscription1
+Office19VisioPro2019VL_KMS_Client_AE
+Office19ProPlus2019MSDNR_Retail
+Office19ProPlus2019VL_MAK_AE
+Office21VisioPro2021R_Trial
+Office19ProPlus2019R_OEM_Perp3
+Office21ProjectPro2021R_Trial
+Office19HomeStudent2019DemoR_BypassTrial180
+Office21ProjectPro2021DemoR_BypassTrial180
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office16O365HomePremR_SubTest2
+Office16O365HomePremDemoR_BypassTrial365
+Office21VisioPro2021R_Retail
+Office19ProPlus2019R_Trial2
+Office19ProPlus2019VL_KMS_Client_AE
+Office16O365HomePremR_SubTrial3
+Office21ProjectPro2021PreviewVL_MAK_AE
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office21ProjectPro2021MSDNR_Retail2
+Office19ProPlus2019R_Retail
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office19VisioPro2019R_Retail
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office19ProPlus2019R_PrepidBypass
+Office16ProPlusVL_MAK
+Office21VisioPro2021VL_MAK_AE
+Office19VisioPro2019DemoR_BypassTrial180
+Office16O365HomePremR_Subscription3
+Office21VisioPro2021MSDNR_Retail
+Office19ProPlus2019DemoR_BypassTrial180
+Office21ProjectPro2021MSDNR_Retail1
+Office19ProPlus2019R_OEM_Perp6
+Office16ProPlusVL_KMS_Client
+Office19VisioPro2019R_Trial
+Office16O365HomePremR_Grace
+Office16OneNoteVL_KMS_Client
+Office19VisioPro2019R_Grace
+Office19ProPlus2019R_Trial
+Office19VisioPro2019VL_MAK_AE
+Office19HomeStudent2019R_Grace
+Office16O365HomePremR_SubTrial2
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-08-21 07:57:26] _C2R_R2V LicenseStatus=1 Description: 
+Office 19, RETAIL channel
+Office 21, RETAIL channel
+
+>>[2025-08-21 07:57:27] _C2R_R2V Office 2013-2021 LicenseStatus=1 LicenseFamily: 
+Office19HomeStudent2019R_OEM_Perp
+Office21VisioPro2021MSDNR_Retail
+
+>>[2025-08-21 07:57:27] _C2R_R2V Office 2013-2021 LicenseFamily: 
+Office19VisioPro2019MSDNR_Retail
+Office21ProjectPro2021R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp4
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_OEM_Perp2
+Office21ProjectPro2021VL_MAK_AE1
+Office21VisioPro2021R_OEM_Perp
+Office21ProjectPro2021VL_MAK_AE2
+Office16OneNoteVL_MAK
+Office16O365HomePremR_Subscription5
+Office19VisioPro2019R_PrepidBypass
+Office21ProjectPro2021R_Retail
+Office21VisioPro2021DemoR_BypassTrial180
+Office21VisioPro2021PreviewVL_MAK_AE
+Office16OneNoteFreeR_Bypass
+Office19ProPlus2019R_OEM_Perp
+Office19HomeStudent2019R_Retail
+Office19HomeStudent2019R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office19VisioPro2019R_OEM_Perp
+Office16O365HomePremR_Subscription2
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Subscription1
+Office19VisioPro2019VL_KMS_Client_AE
+Office19ProPlus2019MSDNR_Retail
+Office19ProPlus2019VL_MAK_AE
+Office21VisioPro2021R_Trial
+Office19ProPlus2019R_OEM_Perp3
+Office21ProjectPro2021R_Trial
+Office19HomeStudent2019DemoR_BypassTrial180
+Office21ProjectPro2021DemoR_BypassTrial180
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office16O365HomePremR_SubTest2
+Office16O365HomePremDemoR_BypassTrial365
+Office21VisioPro2021R_Retail
+Office19ProPlus2019R_Trial2
+Office19ProPlus2019VL_KMS_Client_AE
+Office16O365HomePremR_SubTrial3
+Office21ProjectPro2021PreviewVL_MAK_AE
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office21ProjectPro2021MSDNR_Retail2
+Office19ProPlus2019R_Retail
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office19VisioPro2019R_Retail
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office19ProPlus2019R_PrepidBypass
+Office16ProPlusVL_MAK
+Office21VisioPro2021VL_MAK_AE
+Office19VisioPro2019DemoR_BypassTrial180
+Office16O365HomePremR_Subscription3
+Office21VisioPro2021MSDNR_Retail
+Office19ProPlus2019DemoR_BypassTrial180
+Office21ProjectPro2021MSDNR_Retail1
+Office19ProPlus2019R_OEM_Perp6
+Office16ProPlusVL_KMS_Client
+Office19VisioPro2019R_Trial
+Office16O365HomePremR_Grace
+Office16OneNoteVL_KMS_Client
+Office19VisioPro2019R_Grace
+Office19ProPlus2019R_Trial
+Office19VisioPro2019VL_MAK_AE
+Office19HomeStudent2019R_Grace
+Office16O365HomePremR_SubTrial2
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-08-21 07:57:27] _C2R_R2V Office16 Flag bef = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 0
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 1
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 
+
+ProPlus2021 = 0
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: ProPlus2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: ProjectPro2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: VisioPro2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: Standard2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: ProjectStd2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: VisioStd2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: Access2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: SkypeforBusiness2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: Excel2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: Outlook2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: PowerPoint2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: Publisher2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: Word2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: Professional2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: HomeBusiness2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 Permernantly Activated: HomeStudent2019
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: ProPlus2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: ProjectPro2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: VisioPro2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: Standard2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: ProjectStd2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: VisioStd2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: Access2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: SkypeforBusiness2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: Excel2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: Outlook2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: PowerPoint2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: Publisher2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: Word2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: Professional2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: HomeBusiness2021
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2021 Permernantly Activated: HomeStudent2021
+>>[2025-08-21 07:57:27] _C2R_R2V Office16 Flag aft = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 0
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 0
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 
+
+ProPlus2021 = 0
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+
+>>[2025-08-21 07:57:27] _MSI_R2V  Begining...
+>>[2025-08-21 07:57:27] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2010 = Null
+>>[2025-08-21 07:57:27] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2025-08-21 07:57:27] Office2016 _OfficeExistCheck  MSI = 0
+
+>>[2025-08-21 07:57:27]  _OfficeUWPExist OfficeExist = 
+
+>>[2025-08-21 07:57:27] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:57:27] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2013 = Nul
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2016 = Nul
+>>[2025-08-21 07:57:27] _MSI_R2V Office 2019 = Nul 
+>>[2025-08-21 07:57:27] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-08-21 07:57:28] Software Protection 服务正在停止.
+Software Protection 服务无法停止。
+
+
+>>[2025-08-21 07:57:30] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-08-21 07:57:31] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 3  STOP_PENDING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x1
+        WAIT_HINT          : 0x4e20
+
+>>[2025-08-21 07:57:31] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:57:31] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:57:31] _StartKMSServer KMSMode = 1
+>>[2025-08-21 07:57:31] Add NoGenTicket = 1
+>>[2025-08-21 07:57:32] Copy SECOPatcher = 0    C:\WINDOWS\system32
+>>[2025-08-21 07:57:32] 未找到任何具有匹配 SID 的文件。
+已成功处理 0 个文件; 处理 1 个文件时失败
+已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-08-21 07:57:32] Add Debugger = 1
+>>[2025-08-21 07:57:32] Starting KMS Server...
+>>[2025-08-21 07:57:34] Listening on [::]:1688
+Listening on 0.0.0.0:1688
+vlmcsd 1113, built 2020-03-28 17:29:45 UTC started successfully
+
+>>[2025-08-21 07:57:34] SECOPatcher.dll = 0
+>>[2025-08-21 07:57:34] Office2021 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:57:34] Office2021 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-08-21 07:57:34] Office2021 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-08-21 07:57:35] _Check_Office_Info Office2021 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-08-21 07:57:35] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2025-08-21 07:57:36] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:57:37] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:57:37] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-08-21 07:57:37] 
+>>[2025-08-21 07:57:37] 
+>>[2025-08-21 07:57:37] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:57:37] Office2019 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-08-21 07:57:37] Office2019 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-08-21 07:57:37] _Check_Office_Info Office2019 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-08-21 07:57:37] _CheckOfficeVOL_Licensestatus Office2019 :
+
+
+>>[2025-08-21 07:57:38] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:57:38] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:57:38] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-08-21 07:57:38] 
+>>[2025-08-21 07:57:38] 
+>>[2025-08-21 07:57:38] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:57:38] Office2016 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-08-21 07:57:38] Office2016 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-08-21 07:57:39] _Check_Office_Info Office2016 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-08-21 07:57:39] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2025-08-21 07:57:40] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:57:40] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:57:40] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-08-21 07:57:40] 
+>>[2025-08-21 07:57:40] 
+>>[2025-08-21 07:57:40] Office2013 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-08-21 07:57:40] Office2013 Install path： 
+>>[2025-08-21 07:57:40] Office2013 License path： 
+>>[2025-08-21 07:57:40] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-08-21 07:57:40] Office2010 Install path： 
+>>[2025-08-21 07:57:40] Office2010 License path： 
+>>[2025-08-21 07:57:40]  _OfficeUWPExist OfficeExist = 
+
+>>[2025-08-21 07:57:40] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-08-21 07:57:40] Software Protection 服务正在停止.
+Software Protection 服务已成功停止。
+
+
+>>[2025-08-21 07:57:43] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-08-21 07:57:43] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:57:44] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:57:44] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:57:45] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:57:45] Check Renewal = 0
+>>[2025-08-21 07:57:46] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:57:46] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:57:46] Check Renewal = 0
+>>[2025-08-21 07:57:46] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 1
+>>[2025-08-21 07:57:46] Del NoGenTicket = 1
+>>[2025-08-21 07:57:46] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-08-21 07:57:46] _DelSECOPatcher Del SECOPatcher.dll = 0
+>>[2025-08-21 07:58:18] HEU KMS Activator 24.3.0 激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=0 KMS自动续期=1 生成日志=1 
+【CLICK KMS_ActWin......】
+ Act Option = 1 OS Arch = X64 Build Number = 26100 EditionId = CoreCountrySpecific
+
+>>[2025-08-21 07:58:19] _CheckWindowsLicensestatus Name = Windows(R), CoreCountrySpecific edition,  GracePeriodRemaining = 0
+>>[2025-08-21 07:58:19] _CheckWindowsLicensestatus LS = 1
+>>[2025-08-21 07:58:21] HEU KMS Activator 24.3.0 激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=0 KMS自动续期=1 生成日志=1 
+【CLICK KMS_ActOff......】
+ Act Option = 1 OS Arch = X64 Build Number = 26100 EditionId = CoreCountrySpecific
+
+>>[2025-08-21 07:58:21] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:58:21] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:58:22] _C2R_R2V  Begining...
+>>[2025-08-21 07:58:22] _C2R_R2V  Office16 C2R = 1,Information: 
+VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\ProductReleaseIDs\B5716A2A-3ADE-45F7-8A2B-1629E6231AB1
+C:\Program Files\Microsoft Office\root\Licenses16
+C:\Program Files\Microsoft Office\root\integration\integrator.exe
+>>[2025-08-21 07:58:22] _C2R_R2V  Office15 C2R = 0,Checking MSI...
+>>[2025-08-21 07:58:22] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2025-08-21 07:58:23] _C2R_R2V Office 2013-2021 KMSCLIENT LicenseFamily: 1
+Office19VisioPro2019VL_KMS_Client_AE
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office19ProPlus2019VL_KMS_Client_AE
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office16ProPlusVL_KMS_Client
+Office16OneNoteVL_KMS_Client
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-08-21 07:58:23] _C2R_R2V Office 2013-2021 TIMEBASED LicenseFamily: 1
+Office16O365HomePremR_Subscription5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office16O365HomePremR_Subscription2
+Office16O365HomePremR_Subscription1
+Office21VisioPro2021R_Trial
+Office21ProjectPro2021R_Trial
+Office16O365HomePremR_SubTest2
+Office19ProPlus2019R_Trial2
+Office16O365HomePremR_SubTrial3
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office16O365HomePremR_Subscription3
+Office19VisioPro2019R_Trial
+Office19ProPlus2019R_Trial
+Office16O365HomePremR_SubTrial2
+
+>>[2025-08-21 07:58:23] _C2R_R2V Office 2013-2021 Trial LicenseFamily: 1
+
+>>[2025-08-21 07:58:23] _C2R_R2V Office 2013-2021 Grace LicenseFamily: 1
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Grace
+Office19VisioPro2019R_Grace
+Office19HomeStudent2019R_Grace
+
+>>[2025-08-21 07:58:23] _C2R_R2V Office16MondoVL_KMS_Client: 0
+Office19VisioPro2019MSDNR_Retail
+Office21ProjectPro2021R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp4
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_OEM_Perp2
+Office21ProjectPro2021VL_MAK_AE1
+Office21VisioPro2021R_OEM_Perp
+Office21ProjectPro2021VL_MAK_AE2
+Office16OneNoteVL_MAK
+Office16O365HomePremR_Subscription5
+Office19VisioPro2019R_PrepidBypass
+Office21ProjectPro2021R_Retail
+Office21VisioPro2021DemoR_BypassTrial180
+Office21VisioPro2021PreviewVL_MAK_AE
+Office16OneNoteFreeR_Bypass
+Office19ProPlus2019R_OEM_Perp
+Office19HomeStudent2019R_Retail
+Office19HomeStudent2019R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office19VisioPro2019R_OEM_Perp
+Office16O365HomePremR_Subscription2
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Subscription1
+Office19VisioPro2019VL_KMS_Client_AE
+Office19ProPlus2019MSDNR_Retail
+Office19ProPlus2019VL_MAK_AE
+Office21VisioPro2021R_Trial
+Office19ProPlus2019R_OEM_Perp3
+Office21ProjectPro2021R_Trial
+Office19HomeStudent2019DemoR_BypassTrial180
+Office21ProjectPro2021DemoR_BypassTrial180
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office16O365HomePremR_SubTest2
+Office16O365HomePremDemoR_BypassTrial365
+Office21VisioPro2021R_Retail
+Office19ProPlus2019R_Trial2
+Office19ProPlus2019VL_KMS_Client_AE
+Office16O365HomePremR_SubTrial3
+Office21ProjectPro2021PreviewVL_MAK_AE
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office21ProjectPro2021MSDNR_Retail2
+Office19ProPlus2019R_Retail
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office19VisioPro2019R_Retail
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office19ProPlus2019R_PrepidBypass
+Office16ProPlusVL_MAK
+Office21VisioPro2021VL_MAK_AE
+Office19VisioPro2019DemoR_BypassTrial180
+Office16O365HomePremR_Subscription3
+Office21VisioPro2021MSDNR_Retail
+Office19ProPlus2019DemoR_BypassTrial180
+Office21ProjectPro2021MSDNR_Retail1
+Office19ProPlus2019R_OEM_Perp6
+Office16ProPlusVL_KMS_Client
+Office19VisioPro2019R_Trial
+Office16O365HomePremR_Grace
+Office16OneNoteVL_KMS_Client
+Office19VisioPro2019R_Grace
+Office19ProPlus2019R_Trial
+Office19VisioPro2019VL_MAK_AE
+Office19HomeStudent2019R_Grace
+Office16O365HomePremR_SubTrial2
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-08-21 07:58:24] _C2R_R2V LicenseStatus=1 Description: 
+Office 19, RETAIL channel
+Office 21, RETAIL channel
+
+>>[2025-08-21 07:58:25] _C2R_R2V Office 2013-2021 LicenseStatus=1 LicenseFamily: 
+Office19HomeStudent2019R_OEM_Perp
+Office21VisioPro2021MSDNR_Retail
+
+>>[2025-08-21 07:58:25] _C2R_R2V Office 2013-2021 LicenseFamily: 
+Office19VisioPro2019MSDNR_Retail
+Office21ProjectPro2021R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp4
+Office21ProjectPro2021R_Grace
+Office21VisioPro2021R_Grace
+Office19ProPlus2019R_OEM_Perp2
+Office21ProjectPro2021VL_MAK_AE1
+Office21VisioPro2021R_OEM_Perp
+Office21ProjectPro2021VL_MAK_AE2
+Office16OneNoteVL_MAK
+Office16O365HomePremR_Subscription5
+Office19VisioPro2019R_PrepidBypass
+Office21ProjectPro2021R_Retail
+Office21VisioPro2021DemoR_BypassTrial180
+Office21VisioPro2021PreviewVL_MAK_AE
+Office16OneNoteFreeR_Bypass
+Office19ProPlus2019R_OEM_Perp
+Office19HomeStudent2019R_Retail
+Office19HomeStudent2019R_OEM_Perp
+Office19ProPlus2019R_OEM_Perp5
+Office16O365HomePremR_SubTest5
+Office19HomeStudent2019R_Trial
+Office19VisioPro2019R_OEM_Perp
+Office16O365HomePremR_Subscription2
+Office19ProPlus2019R_Grace
+Office16O365HomePremR_Subscription1
+Office19VisioPro2019VL_KMS_Client_AE
+Office19ProPlus2019MSDNR_Retail
+Office19ProPlus2019VL_MAK_AE
+Office21VisioPro2021R_Trial
+Office19ProPlus2019R_OEM_Perp3
+Office21ProjectPro2021R_Trial
+Office19HomeStudent2019DemoR_BypassTrial180
+Office21ProjectPro2021DemoR_BypassTrial180
+Office21ProjectPro2021PreviewVL_KMS_Client_AE
+Office21ProjectPro2021VL_KMS_Client_AE
+Office16O365HomePremR_SubTest2
+Office16O365HomePremDemoR_BypassTrial365
+Office21VisioPro2021R_Retail
+Office19ProPlus2019R_Trial2
+Office19ProPlus2019VL_KMS_Client_AE
+Office16O365HomePremR_SubTrial3
+Office21ProjectPro2021PreviewVL_MAK_AE
+Office16O365HomePremR_SubTrial1
+Office16O365HomePremR_SubTrial5
+Office16O365HomePremR_SubTest3
+Office21ProjectPro2021MSDNR_Retail2
+Office19ProPlus2019R_Retail
+Office21VisioPro2021PreviewVL_KMS_Client_AE
+Office19VisioPro2019R_Retail
+Office16O365HomePremR_SubTest1
+Office16O365HomePremR_SubTrial4
+Office16O365HomePremR_SubTest4
+Office16O365HomePremR_Subscription4
+Office19ProPlus2019R_PrepidBypass
+Office16ProPlusVL_MAK
+Office21VisioPro2021VL_MAK_AE
+Office19VisioPro2019DemoR_BypassTrial180
+Office16O365HomePremR_Subscription3
+Office21VisioPro2021MSDNR_Retail
+Office19ProPlus2019DemoR_BypassTrial180
+Office21ProjectPro2021MSDNR_Retail1
+Office19ProPlus2019R_OEM_Perp6
+Office16ProPlusVL_KMS_Client
+Office19VisioPro2019R_Trial
+Office16O365HomePremR_Grace
+Office16OneNoteVL_KMS_Client
+Office19VisioPro2019R_Grace
+Office19ProPlus2019R_Trial
+Office19VisioPro2019VL_MAK_AE
+Office19HomeStudent2019R_Grace
+Office16O365HomePremR_SubTrial2
+Office21VisioPro2021VL_KMS_Client_AE
+
+>>[2025-08-21 07:58:25] _C2R_R2V Office16 Flag bef = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 0
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 1
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 
+
+ProPlus2021 = 0
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: ProPlus2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: ProjectPro2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: VisioPro2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: Standard2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: ProjectStd2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: VisioStd2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: Access2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: SkypeforBusiness2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: Excel2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: Outlook2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: PowerPoint2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: Publisher2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: Word2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: Professional2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: HomeBusiness2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 Permernantly Activated: HomeStudent2019
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: ProPlus2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: ProjectPro2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: VisioPro2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: Standard2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: ProjectStd2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: VisioStd2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: Access2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: SkypeforBusiness2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: Excel2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: Outlook2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: PowerPoint2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: Publisher2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: Word2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: Professional2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: HomeBusiness2021
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2021 Permernantly Activated: HomeStudent2021
+>>[2025-08-21 07:58:25] _C2R_R2V Office16 Flag aft = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 0
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 0
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 
+
+ProPlus2021 = 0
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+
+>>[2025-08-21 07:58:25] _MSI_R2V  Begining...
+>>[2025-08-21 07:58:25] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2010 = Null
+>>[2025-08-21 07:58:25] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2025-08-21 07:58:25] Office2016 _OfficeExistCheck  MSI = 0
+
+>>[2025-08-21 07:58:25]  _OfficeUWPExist OfficeExist = 
+
+>>[2025-08-21 07:58:25] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:58:25] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2013 = Nul
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2016 = Nul
+>>[2025-08-21 07:58:25] _MSI_R2V Office 2019 = Nul 
+>>[2025-08-21 07:58:25] 
+没有与指定标准相匹配的规则。
+
+
+>>[2025-08-21 07:58:25] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2025-08-21 07:58:25] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2025-08-21 07:58:25] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2025-08-21 07:58:25] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-08-21 07:58:25] 
+没有与指定标准相匹配的规则。
+
+
+>>[2025-08-21 07:58:26] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:58:27] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:58:28] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:58:28] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:58:29] Check Renewal = 0
+>>[2025-08-21 07:58:29] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2025-08-21 07:58:29] Del NoGenTicket = 0
+>>[2025-08-21 07:58:29] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-08-21 07:58:29] _DelSECOPatcher Del SECOPatcher.dll = 0
+>>[2025-08-21 07:58:30] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:30] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:30] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:30] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:30] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:30] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:31] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:31] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:31] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:31] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:31] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:31] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:31] _CleanKmsReg 1,1,1,1,0,0,0,0,0,0
+>>[2025-08-21 07:58:32] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:32] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:32] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:32] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:32] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2025-08-21 07:58:32] _CleanKmsReg 1,1,1,1,0,0,0,0,0,0
+>>[2025-08-21 07:58:32] Del = 0  C:\WINDOWS\System32\HEUKMSRenewal.tmp
+>>[2025-08-21 07:58:33] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-08-21 07:58:33] Software Protection 服务正在停止.
+Software Protection 服务已成功停止。
+
+
+>>[2025-08-21 07:58:36] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-08-21 07:58:36] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:58:37] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:58:37] _StartKMSServer KMSMode = 1
+>>[2025-08-21 07:58:37] Add NoGenTicket = 1
+>>[2025-08-21 07:58:37] Copy SECOPatcher = 0    C:\WINDOWS\system32
+>>[2025-08-21 07:58:37] 未找到任何具有匹配 SID 的文件。
+已成功处理 0 个文件; 处理 1 个文件时失败
+已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-08-21 07:58:37] Add Debugger = 1
+>>[2025-08-21 07:58:37] Starting KMS Server...
+>>[2025-08-21 07:58:39] Listening on [::]:1688
+Listening on 0.0.0.0:1688
+vlmcsd 1113, built 2020-03-28 17:29:45 UTC started successfully
+
+>>[2025-08-21 07:58:39] SECOPatcher.dll = 0
+>>[2025-08-21 07:58:39] Office2021 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:58:39] Office2021 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-08-21 07:58:39] Office2021 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-08-21 07:58:40] _Check_Office_Info Office2021 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-08-21 07:58:40] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2025-08-21 07:58:41] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:58:42] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:58:42] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-08-21 07:58:42] 
+>>[2025-08-21 07:58:42] 
+>>[2025-08-21 07:58:42] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:58:42] Office2019 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-08-21 07:58:42] Office2019 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-08-21 07:58:42] _Check_Office_Info Office2019 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-08-21 07:58:42] _CheckOfficeVOL_Licensestatus Office2019 :
+
+
+>>[2025-08-21 07:58:43] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:58:44] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:58:44] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-08-21 07:58:44] 
+>>[2025-08-21 07:58:44] 
+>>[2025-08-21 07:58:44] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = VisioPro2019Retail,HomeStudent2019Retail,VisioPro2019Volume
+
+>>[2025-08-21 07:58:44] Office2016 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2025-08-21 07:58:44] Office2016 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2025-08-21 07:58:44] _Check_Office_Info Office2016 :
+Office 19, Office19VisioPro2019VL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProjectPro2021VL_KMS_Client_AE edition
+Office 19, Office19ProPlus2019VL_KMS_Client_AE edition
+Office 21, Office21VisioPro2021PreviewVL_KMS_Client_AE edition
+Office 16, Office16ProPlusVL_KMS_Client edition
+Office 16, Office16OneNoteVL_KMS_Client edition
+Office 21, Office21VisioPro2021VL_KMS_Client_AE edition
+
+5b5cf08f-b81a-431d-b080-3450d8620565
+76093b1b-7057-49d7-b970-638ebcbfd873
+76881159-155c-43e0-9db7-2d70a9a3a4ca
+85dd8b5f-eaa4-4af3-a628-cce9e77c9a03
+a3b44174-2451-4cd6-b25f-66638bfb9046
+d450596f-894d-49e0-966a-fd39ed4c4c64
+d8cace59-33d2-4ac7-9b1b-9b72339c51c8
+fb61ac9a-1688-45d2-8f6b-0674dbffa33c
+
+ Office VL =1
+>>[2025-08-21 07:58:44] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2025-08-21 07:58:45] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:58:46] Fixbanner = 1,1,1,1,1,1
+>>[2025-08-21 07:58:46] _ActivateOffice Host:Port = 0.0.0.0:1688
+>>[2025-08-21 07:58:46] 
+>>[2025-08-21 07:58:46] 
+>>[2025-08-21 07:58:46] Office2013 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-08-21 07:58:46] Office2013 Install path： 
+>>[2025-08-21 07:58:46] Office2013 License path： 
+>>[2025-08-21 07:58:46] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2025-08-21 07:58:46] Office2010 Install path： 
+>>[2025-08-21 07:58:46] Office2010 License path： 
+>>[2025-08-21 07:58:46]  _OfficeUWPExist OfficeExist = 
+
+>>[2025-08-21 07:58:46] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-08-21 07:58:47] Software Protection 服务正在停止.
+Software Protection 服务已成功停止。
+
+
+>>[2025-08-21 07:58:49] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2025-08-21 07:58:50] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:58:50] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2025-08-21 07:58:51] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:58:51] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:58:51] Check Renewal = 0
+>>[2025-08-21 07:58:52] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:58:52] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2025-08-21 07:58:52] Check Renewal = 0
+>>[2025-08-21 07:58:52] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 1
+>>[2025-08-21 07:58:52] Del NoGenTicket = 1
+>>[2025-08-21 07:58:52] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2025-08-21 07:58:52] _DelSECOPatcher Del SECOPatcher.dll = 0
